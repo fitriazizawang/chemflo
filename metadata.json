@@ -1,0 +1,6 @@
+{
+  "name": "ChemLab Flow - Inventory & Restock Management System",
+  "description": "Sistem pengurusan inventori pintar dan perancangan bajet pembelian semula makmal R&D dengan AI Vision, pengesanan harga pembekal, jejak audit projek, dan amaran stok kritikal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
